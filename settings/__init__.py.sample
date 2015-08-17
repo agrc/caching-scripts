@@ -1,0 +1,2 @@
+GIS_SERVER_IP = '<ip>'
+HNAS_DATA_FOLDER = r'<unc path to HNAS data>'
